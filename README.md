@@ -2,6 +2,8 @@
 
 This is my personal repository of [advent of code](https://adventofcode.com/)
 challenge.
+
+```
       .
    __/ \__
    \     /
@@ -13,3 +15,4 @@ challenge.
 .o.'.o.'.o.'.
    [_____]
     \___/    ldb
+```
